@@ -1,0 +1,4 @@
+*.exe
+pholcus_pkg
+debug
+.vscode
